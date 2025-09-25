@@ -7,8 +7,8 @@ We used earthquake data from 1995 to 2023 and applied regression techniques to b
 <br>
 The aim of this project is to demonstrate how machine learning can assist in natural disaster risk assessment by forecasting the magnitude of future earthquakes based on past data.
 <br><br>
-<ul>
 ⚙️ Tech Stack
+<ul>
 
 <li>Python</li>
 <li>Pandas, NumPy → Data preprocessing</li>
