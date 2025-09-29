@@ -3,7 +3,7 @@
 📌 Project Overview<br>
 This project focuses on predicting earthquake magnitudes using machine learning.
 <br>
-We used earthquake data from 1995 to 2023 and applied regression techniques to build a predictive model.
+We used synthetic dataset and applied regression techniques to build a predictive model.
 <br>
 The aim of this project is to demonstrate how machine learning can assist in natural disaster risk assessment by forecasting the magnitude of future earthquakes based on past data.
 <br><br>
